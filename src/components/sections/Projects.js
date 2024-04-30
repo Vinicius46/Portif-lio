@@ -12,7 +12,7 @@ function Projects(){
 
             <Card img={prevTemp} title="DncWeather" tech="CSS, HTML5 e Javascript" description="Neste site podemos saber o tempo e também pesquisar endereços através do consumo de APIs de tempo e CEP." repo="https://github.com/Vinicius46/DesafioAPI_DNC" site="https://previsaodotempoecep.netlify.app/" />
             
-            <ButtonB text='Acesse meu repositório' link='https://github.com/Vinicius46?tab=repositories'/>
+            
         </div>
     )
 }
