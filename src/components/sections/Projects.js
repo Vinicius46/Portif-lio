@@ -1,5 +1,4 @@
 import { Card } from "./Card"
-import { ButtonB } from "./elements/ButtonB"
 import styles from './Projects.module.css'
 import btcamp from '../../image/projects/btcamp.svg';
 import prevTemp from '../../image/projects/prevTemp.svg';
