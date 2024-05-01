@@ -7,6 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
      background-image: url('./image/background.svg');
     color: aliceblue;
+    background-size:cover;
 }
 
 code {
