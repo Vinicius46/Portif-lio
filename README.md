@@ -1,3 +1,3 @@
-AQUI SE ENCONTRA MEU PORTFÓLIO, FOI CRIADO NA ITENÇÃO DE APRESENTAR MEUS TRABALHOS.
+Desafio proposto para a utilização do Git
 
-#Link do portfólio: https://portif-lio-coral.vercel.app/
+
